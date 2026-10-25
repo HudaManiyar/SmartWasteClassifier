@@ -114,8 +114,8 @@ WasteClassifier/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/HudaManiyar/Smart-Waste-Classifier.git
-cd Smart-Waste-Classifier/WasteClassifier
+git clone https://github.com/HudaManiyar/SmartWasteClassifier.git
+cd SmartWasteClassifier/WasteClassifier
 ```
 
 **2. Create and activate a virtual environment**
