@@ -160,7 +160,7 @@ The app classifying four images from the held-out test set:
 
 ![Demo: the app classifying four held-out test images](WasteClassifier/results/demo.gif)
 
-[Full demo video (MP4, 55 s)](WasteClassifier/results/demo.mp4): predictions, model comparison and training curves.
+[Full demo video (MP4)](WasteClassifier/results/demo.mp4): predictions, model comparison and training curves.
 
 ---
 
